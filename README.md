@@ -1,81 +1,84 @@
-# Hwang Eon Jong | 황언종
+<h1 align="center">Hwang Eon Jong | 황언종</h1>
 
-AI 및 Data Science 전공자로서 데이터 분석, 머신러닝, 백엔드 API 개발, 모바일 앱까지 다양한 영역에서 End-to-End 문제 해결 경험을 보유한 개발자입니다.  
-주요 관심 분야는 AI, 데이터사이언스, 빅데이터 분산처리이며, 모바일 앱 개발과 백엔드 시스템 개발은 서브 영역으로 역량을 확장하고 있습니다.
-
----
-
-## Academic Background
-
-| Period              | Institution                    | Major                               | Degree     | Notes           |
-|---------------------|-------------------------------|--------------------------------------|------------|-----------------|
-| 2024.03 ~ 2026.02   | 부산대학교 (Pusan National University)      | 데이터사이언스전공 (Data Science, Engineering)           | 학사 예정 (B.Sc. expected) | GPA 4.15 / 4.5 |
-| 2022.03 ~ 2024.02   | 동의대학교 (Dong-Eui University)            | 인공지능학 (Artificial Intelligence, Engineering) | 중퇴 (Transferred) | GPA 4.41 / 4.5 |
+<p align="center">
+AI & Data Science 전공 학부생입니다.  
+AI 모델 개발과 데이터 분석을 중심으로 공부하고 있으며,  
+백엔드, 앱 개발, 데이터 시각화 등 다양한 분야에도 경험을 넓혀가고 있습니다.
+</p>
 
 ---
 
-## Skills & Tools
+## 🎓 Academic Background
+| 기간               | Institution                          | Major                                | Degree    | 비고            |
+|-----------------|----------------------------------|-------------------------------------|----------|----------------|
+| 2024.03 ~ 2026.02 | Pusan National University        | Data Science (Engineering)          | Bachelor (expected) | GPA 4.15 / 4.5  |
+| 2022.03 ~ 2024.02 | Dong-Eui University              | Artificial Intelligence (Engineering) | Transferred (중퇴) | GPA 4.41 / 4.5  |
 
-### Programming Languages
-- Python
-- Dart
-- SQL
+---
+
+## 💡 About Me
+AI & Data Science 전공자로서  
+머신러닝 모델링, 데이터 분석, AI 기반 프로젝트 중심으로 경험을 쌓아왔습니다.  
+현재는 AI 외에도 백엔드 API 개발, 모바일 앱 개발, 데이터 시각화 등 다양한 개발 영역에도 관심을 갖고 직접 프로젝트에 참여하며 역량을 넓히고 있습니다.  
+비즈니스와 현실 문제를 데이터와 기술을 통해 해결하는 것에 흥미를 느끼고 있으며, 겸손하게 배우고 도전하는 자세로 프로젝트에 임하고 있습니다.
+
+---
+
+## 🛠 Skills & Tools
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
 
 ### Data Science & Machine Learning
-- Pandas, NumPy, scikit-learn
-- TensorFlow, PyTorch
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ### Backend & Database
-- FastAPI
-- PostgreSQL, MySQL
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Mobile App Development
-- Flutter
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### Tools & Others
-- MS Office (Excel intermediate / PowerPoint advanced / Word advanced)
-
----
-
-## Certifications
-
-- SQLD (SQL 개발자) - 한국데이터산업진흥원 (Apr 2025)
-- ADsP (데이터분석준전문가) - 한국데이터산업진흥원 (Mar 2025)
+### Data Visualization & Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## Language Proficiency
+## 🏆 Certifications
+- SQLD (SQL 개발자) - 한국데이터산업진흥원 *(2025.04)*
+- ADsP (데이터분석준전문가) - 한국데이터산업진흥원 *(2025.03)*
+- 정보처리기사 필기합격 *(2025.03.12)*
+- 빅데이터분석기사 필기합격 *(2025.04.25)*
 
+---
+
+## 💼 Experience
+| 기간                    | 기관/프로젝트                                | 역할/활동                           |
+|-----------------------|----------------------------------------|------------------------------------|
+| Jan 2023 – Feb 2023     | 한국주택금융공사 (인천남부지사) | 특례보금자리론 상담 및 사무보조  |
+| Jul 2024 – Aug 2024     | LG Aimers                              | 제품 이상탐지 프로젝트 참여    |
+| Oct 2024 – Nov 2024     | 제6회 POSTECH OIBC Challenge                 | 전력가격 예측 프로젝트 (연구소상 수상) |
+
+---
+
+## 🌐 Language Proficiency
 | Language  | Score |
 |-----------|-------|
 | English (TOEIC) | 840 / 990 (Sep 2023) |
 
 ---
 
-## Experience
-
-- **Korea Housing Finance Corporation (Incheon Branch)**  
-  특례보금자리론 상담 및 사무보조 (Jan 2023 – Feb 2023)
-
-- **LG Aimers**  
-  Product Anomaly Detection Project (Jul 2024 – Aug 2024)
-
-- **POSTECH OIBC Challenge**  
-  Electricity Price Forecasting Competition (Oct 2024 – Nov 2024)  
-  Awarded 참가상 (Participation Prize)
-
----
-
-## About Me
-
-AI와 데이터사이언스를 중심으로 분석, 머신러닝 모델링, API화, 앱 UI까지 End-to-End 프로젝트를 진행한 경험이 있습니다.  
-현재는 AI, ML, 데이터 분석 역량을 중심으로 확장하고 있으며, Big Data distributed processing, data engineering, data visualization에도 관심이 많습니다.  
-비즈니스 문제를 데이터 기반으로 해결하고, 실제 서비스화할 수 있는 실무형 데이터 사이언티스트 및 시스템 개발자가 되고자 합니다.
-
----
-
-## Contact
-
-- Email: djswhd1234@naver.com
-- GitHub: [github.com/사용자명](https://github.com/사용자명)
-
+## 📫 Contact
+- Email: djswhd1234@naver.com  
+- GitHub: [eonjong0218](https://github.com/eonjong0218)
