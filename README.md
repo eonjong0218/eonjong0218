@@ -1,4 +1,4 @@
-<h1 align="center">Hwang Eon Jong | 황언종</h1>
+<h1 align="center"> 간단 소개 </h1>
 
 <p align="center">
 AI & Data Science 전공 학부생입니다.  
