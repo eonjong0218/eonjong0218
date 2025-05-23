@@ -69,10 +69,10 @@ AI 모델 개발과 데이터 분석을 중심으로 공부하였고 현재는 A
 ---
 
 ## 🌐 Language Proficiency
-| Language  | Score |
-|-----------|-------|
-| English (TOEIC) | 840 / 990 (Sep 2023) |
-
+| Language        | Score                     |
+|-----------------|---------------------------|
+| English (TOEIC)  | 840 / 990 (Sep 2023)      |
+| English (OPIC)   | IM1 (May 2025)            |
 ---
 
 ## 📫 Contact
