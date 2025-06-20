@@ -78,3 +78,4 @@ AI 모델 개발과 데이터 분석을 중심으로 공부하였고 현재는 A
 ## 📫 Contact
 - Email: djswhd1234@naver.com  
 - GitHub: [eonjong0218](https://github.com/eonjong0218)
+- Velog: https://velog.io/@eonjong0218
