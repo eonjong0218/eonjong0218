@@ -13,7 +13,7 @@ AI 모델 개발과 데이터 분석을 중심으로 공부하였고 현재는 A
 ## 🎓 Academic Background
 | 기간               | Institution                          | Major                                | Degree    | 비고            |
 |-----------------|----------------------------------|-------------------------------------|----------|----------------|
-| 2024.03 ~ 2026.02 | Pusan National University        | Data Science (Engineering)          | Bachelor (expected) | GPA 4.15 / 4.5  |
+| 2024.03 ~ 2026.02 | Pusan National University        | Data Science (Engineering)          | Bachelor (expected) | GPA 4.08 / 4.5  |
 | 2022.03 ~ 2024.02 | Dong-Eui University              | Artificial Intelligence (Engineering) | Transferred (중퇴) | GPA 4.41 / 4.5  |
 
 ---
